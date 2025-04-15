@@ -1,9 +1,9 @@
 {
   "docDir": "docs",
-  "galleryDir": "PhotoGallery",
+  "galleryDir": "gallery",
   "albumDir": "albums",
   "baseURL": "https://acanx.github.io/PhotoGallery/",
-  "rootDir": "/",
+  "rootDir": "/PhotoGallery",
   "perPage": 10,
   "title": "AC 的照片墙",
   "subtitle": "面朝大海，春暖花开",
