@@ -1,6 +1,6 @@
 {
   "docDir": "docs",
-  "galleryDir": "gallery",
+  "galleryDir": "PhotoGallery",
   "albumDir": "albums",
   "baseURL": "https://acanx.github.io/PhotoGallery/",
   "rootDir": "/",
