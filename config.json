@@ -2,10 +2,10 @@
   "docDir": "docs",
   "galleryDir": "gallery",
   "albumDir": "albums",
-  "baseURL": "https://gallery.alynx.one",
+  "baseURL": "https://acanx.github.io/PhotoGallery/",
   "rootDir": "/",
   "perPage": 10,
-  "title": "Alynx Zhou 的照片墙",
-  "subtitle": "港湾晚灯 山顶破晓",
-  "info": "<a href=\"https://sh.alynx.one/\" target=\"_blank\" rel=\"external nofollow noreferrer noopener\">Alynx Zhou 的博客</a> <a href=\"https://github.com/AlynxZhou/azgallery/\" target=\"_blank\" rel=\"external nofollow noreferrer noopener\">照片墙源码</a>"
+  "title": "AC 的照片墙",
+  "subtitle": "面朝大海，春暖花开",
+  "info": "<a href=\"https://blog.acanx.com/\" target=\"_blank\" rel=\"external nofollow noreferrer noopener\">AC的博客</a> <a href=\"https://github.com/AlynxZhou/azgallery/\" target=\"_blank\" rel=\"external nofollow noreferrer noopener\">照片墙源码</a>"
 }

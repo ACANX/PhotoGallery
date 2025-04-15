@@ -1,11 +1,11 @@
 import * as path from "node:path";
 import * as fs from "node:fs";
 import * as fsp from "node:fs/promises";
+import { fileURLToPath } from 'url';
 
-const pkgDir = path.resolve(
-  path.dirname(new URL(import.meta.url).pathname),
-  "../"
-);
+const __filename = fileURLToPath(import.meta.url); 
+
+const pkgDir = path.resolve(path.dirname(__filename), '../');
 
 const loadJSON = async (path) => {
   return JSON.parse(await fsp.readFile(path, "utf8"));
